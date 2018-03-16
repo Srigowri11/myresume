@@ -1,0 +1,25 @@
+{
+	"basics":{
+		"objective":"all are true"
+},
+"education":[
+{
+	"degree":"B.TECH(Computer science and engineering)",
+	"college":"KLM college of engineering",
+	"data":["2015-2018","70%"]
+},
+{
+"degree":"diploma(Computer engineering)",
+	"college":"gpw college",
+	"data":["2011-2014","77%"]
+},
+{
+	"degree":"SSC",
+	"college":"new model high school",
+	"data":["2011","80%"]
+},
+
+
+]
+}
+}
